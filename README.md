@@ -15,3 +15,7 @@ Paper: []()
 6. python -m pip install requirements.txt
 7. jupyter lab
 8. Run the code.
+
+## If you find any bugs, error or mistakes
+Reach out to me at:
+`mailto: mrunalnshah@protonmail.com`

@@ -1,5 +1,5 @@
 # Index-Free Grover Search Implementation via QROM Based State Encoding for Quantum Pattern Search
-Author: Mrunal Nirajkumar Shah
+Author: Mrunal Nirajkumar Shah \
 Date  : 7th December, 2025
 
 Paper: []()

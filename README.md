@@ -2,7 +2,7 @@
 Author: Mrunal Nirajkumar Shah \
 Date  : 7th December, 2025
 
-Paper: [Preprint Yet to be published.]()
+Paper: [Manuscript](https://drive.google.com/file/d/1Fs4qdFNqA3kfE1uFbC4S0ksOy6fPQqNO/view?usp=sharing)
 
 
 ## How to Run the code?
